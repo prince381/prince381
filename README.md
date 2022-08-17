@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://iamprince.netlify.app](https://iamprince.netlify.app)
 
-- 💬 Ask me about **react, vue, nuxt, git, firebase, three.js, electron.js**
+- 💬 Ask me about **react, node.js, express, vue, nuxt, git, firebase, docker, three.js, electron.js**
 
-- 📫 How to reach me **powusu381@gmail.com**
+- 📫 How to reach me **princeowusuofficial@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q7vHV57RK_OT6__28Npg64YNmP2xWwZT/view?usp=sharing](https://drive.google.com/file/d/1q7vHV57RK_OT6__28Npg64YNmP2xWwZT/view?usp=sharing)
 
