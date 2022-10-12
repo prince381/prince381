@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/iam_kwekhu" target="blank"><img src="https://img.shields.io/twitter/follow/iam_kwekhu?logo=twitter&style=for-the-badge" alt="iam_kwekhu" /></a> </p>
 
-- 🌱 I’m currently learning **Django, React, Vue and Nuxt, Node, Electron, and Three.js**
+- 🌱 I’m currently learning **React Native, React, Vue and Nuxt, Node, Electron, and Three.js**
 
 - 👨‍💻 All of my projects are available at [https://iamprince.netlify.app](https://iamprince.netlify.app)
 
