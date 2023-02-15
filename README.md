@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://twitter.com/iam_kwekhu" target="blank"><img src="https://img.shields.io/twitter/follow/iam_kwekhu?logo=twitter&style=for-the-badge" alt="iam_kwekhu" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, React, Vue and Nuxt, Node, Electron, and Three.js**
+- 🌱 I’m currently learning **React Native, Block Chain Development, and AWS Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://iamprince.netlify.app](https://iamprince.netlify.app)
 
-- 💬 Ask me about **react, node.js, express, vue, nuxt, git, firebase, docker, three.js, electron.js**
+- 💬 Ask me about **react, next.js, node.js with express, vue, nuxt, git, firebase, docker, and typescript**
 
-- 📫 How to reach me **princeowusuofficial@gmail.com**
+- 📫 How to reach me **powusu381@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
