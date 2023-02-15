@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Owusu</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A full-stack javascript developer from Ghana</h3>
 
 <p align="center"> <a href="https://twitter.com/iam_kwekhu" target="blank"><img src="https://img.shields.io/twitter/follow/iam_kwekhu?logo=twitter&style=for-the-badge" alt="iam_kwekhu" /></a> </p>
 
