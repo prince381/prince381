@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **princeowusuofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q7vHV57RK_OT6__28Npg64YNmP2xWwZT/view?usp=sharing](https://drive.google.com/file/d/1q7vHV57RK_OT6__28Npg64YNmP2xWwZT/view?usp=sharing)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/iam_kwekhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_kwekhu" height="30" width="40" /></a>
