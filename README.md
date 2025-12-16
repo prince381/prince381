@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Owusu</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer (backend-heavy) | Node.js | Python | C++ 11-23 | Passionate about AI & MLa</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer (backend-heavy) | Node.js | Python | C++ 11-23 | Passionate about AI & ML</h3>
 
 - 🌱 I’m currently enrolled in the **IBM Machine Learning and Deep Learning Professional Certification Program**
 
