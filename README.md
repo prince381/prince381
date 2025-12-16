@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, FastAPI, Typescript, Node.js with Express.js, MySQL, MongoDB, Docker, Software Architecture & System Design**
 
-- 📫 How to reach me **princeowusuofficial@gmail.com**
+- 📫 How to reach me **princeowusuofficial@gmail.com** , **powusu381@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
